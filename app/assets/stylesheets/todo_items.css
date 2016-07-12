@@ -1,0 +1,14 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+h1{
+  color: purple;
+  text-align: center;
+}
+body{
+  background-color: orange;
+  text-align: center;
+  font-family: monospace;
+  font-size: 1em;
+}
